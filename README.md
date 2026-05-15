@@ -46,3 +46,6 @@ stroke-risk-prediction/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+## Live Demo
+Deployed Streamlit App: https://stroke-risk-prediction-pdil8wz7gbcuo9chapumxd.streamlit.app/)
